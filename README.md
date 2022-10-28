@@ -33,7 +33,9 @@
   </div>
  
  <h2> :rocket: My stats:</h2>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rvze&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rvze&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
  <h2>Connect with me:</h2>
