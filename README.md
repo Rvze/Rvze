@@ -1,4 +1,4 @@
-### Hi there, I'm Nurgun/Evgeny Makarov 😉
+### Hi there, I'm Nurgun Makarov 😉
 
 <div id ="header" allign="center">
   <img src ="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" width ="300"/>
