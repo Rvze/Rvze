@@ -10,7 +10,7 @@
   
   - :mortar_board: I'm currently studying at <a href="https://itmo.ru/">ITMO uni</a>
   
-  - :computer: I work as a software engineer and contribute to the backend part of the product
+  - :computer: Looking for opportunities as Java/Kotlin dev
   
   - :books: In my free time, and not only, I like to learn <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="50"> something new
   </div>
